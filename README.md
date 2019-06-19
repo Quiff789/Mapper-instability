@@ -1,5 +1,5 @@
 # Mapper-instability
-Mapper instability of concentric circle data set over varying bin overlap and numbers.
+Mapper instability of concentric circle data set over varying bin and overlap numbers.
 
 This code accompanies the paper:
 Francisco Belch\'{\i}, Jacek Brodzki, Matthew Burfitt, Mahesan Niranjan,
