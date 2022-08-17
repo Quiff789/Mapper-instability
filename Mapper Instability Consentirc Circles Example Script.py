@@ -18,8 +18,8 @@ for temp in temp1:
     temp2.append(temp/1000)
 
 #Full settings
-Cubes_List = [2,4]#list(range(2,22,1))
-Overlap_List = [0.2,0.4]#temp2
+Cubes_List = list(range(2,22,1))
+Overlap_List = temp2
 Shift = 100
 Points = 10*Shift
 Runs = 1#10
