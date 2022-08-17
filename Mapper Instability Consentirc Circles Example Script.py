@@ -22,7 +22,7 @@ Cubes_List = list(range(2,22,1))
 Overlap_List = temp2
 Shift = 100
 Points = 10*Shift
-Runs = 1#10
+Runs = 10
 Epsilon = 0.15
 Noise = 0.055
 
